@@ -1,3 +1,4 @@
 ##### Assignment4 JPA
-*  I have uploaded the code for Assignment 4.
-* Please let me know if anything is missing or any additional details required.
+
+The assignment deals with implementation of JPA on a leraning management system Accessed by faculty and students.
+In this academic project I learnt various concepts such as CRUD repository, One to Many, Many to Many implementations, writing custom queries
